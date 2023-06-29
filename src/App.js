@@ -10,7 +10,7 @@ function App() {
 
 
   return (
-    <Router basename="/">
+    <Router basename="/duckys-revenge-3d/">
       <AppBaseComponent registeredPages={registeredPages}>
         <GameConsoleComponent>
         <Routes>
