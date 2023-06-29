@@ -8,6 +8,7 @@ function App() {
   
   const appRoutes = generateRoutes(registeredPages)
 
+  
 
   return (
     <Router basename={process.env.PUBLIC_URL}>                                                     
